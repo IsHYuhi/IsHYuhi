@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![](https://github.com/IsHYuhi/IsHYuhi/blob/master/hi.gif)
 <!--
 **IsHYuhi/IsHYuhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -4,7 +4,7 @@
 
 ## Interests
 - Computer Vision
-- Neural Net Compilers
+- Deep Learning
 
 ## Contact
 - Twitter: [@ImsoHappyYuhi](https://twitter.com/ImsoHappyYuhi)

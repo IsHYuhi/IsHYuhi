@@ -2,8 +2,8 @@
 
 - Undergraduate student at the University of Aizu
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IsHYuhi&show_icons=true&icon_color=2BDE73&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsHYuhi&layout=compact&hide=jupyter)](https://github.com/anuraghazra/github-readme-stats)-->
+[![IsHYuhi's github stats](https://github-readme-stats.vercel.app/api?username=IsHYuhi&show_icons=true&icon_color=2BDE73&count_private=true)](https://github.com/IsHYuhi)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsHYuhi&layout=compact&hide=jupyter)](https://github.com/IsHYuhi)-->
 ## Interests
 - Computer Vision
 - Deep Learning

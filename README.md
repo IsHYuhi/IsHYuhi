@@ -2,8 +2,12 @@
 
 - Undergraduate student at the University of Aizu
 
+[![GitHub IsHYuhi](https://img.shields.io/github/followers/ishyuhi?label=follow%20@IsHYuhi&style=social)](https://github.com/IsHYuhi)
+
+[![GitHub IsHYuhi](https://img.shields.io/twitter/follow/ImsoHappyYuhi?style=social&logo=twitter)](https://twitter.com/intent/follow?screen_name=imsohappyyuhi)
+
 [![IsHYuhi's github stats](https://github-readme-stats.vercel.app/api?username=IsHYuhi&show_icons=true&icon_color=2BDE73&count_private=true)](https://github.com/IsHYuhi)
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsHYuhi&layout=compact&hide=jupyternotebook)](https://github.com/IsHYuhi)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsHYuhi&layout=compact&hide=jupyter%20notebook)](https://github.com/IsHYuhi)
 ## Interests
 - Computer Vision
 - Deep Learning

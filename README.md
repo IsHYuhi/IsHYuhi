@@ -11,6 +11,17 @@
 - Computer Vision
 - Deep Learning
 
+## Skills
+<p>
+<img src="https://img.shields.io/badge/-Java-007396.svg?logo=java&style=social">
+<img src="https://img.shields.io/badge/-Python-3776AB?style=social&logo=Python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=social&logo=PyTorch&logoColor=EE4C2C"/>
+<img src="https://img.shields.io/badge/-Django-092E20?style=social&logo=Django&logoColor=092E20"/>
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=social&logo=Visual%20Studio%20Code&logoColor=23A9F2"/>
+<img src="https://img.shields.io/badge/-Github-181717?style=social&logo=GitHub&logoColor=181717"/>
+<img src="https://img.shields.io/badge/-Git-F44D27?style=social&logo=Git&logoColor=F44D27"/>
+</p>
+
 ## Contact
 - Twitter: [@ImsoHappyYuhi](https://twitter.com/ImsoHappyYuhi)
 - FaceBook: [Yuhi Matsuo](https://www.facebook.com/ImsoHappyYuhi)

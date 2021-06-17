@@ -1,7 +1,7 @@
 ![](https://github.com/IsHYuhi/IsHYuhi/blob/master/id.jpg)
 
 <h1 align="center">Hi👋, I'm Yuhi Matsuo.</h1>
-<h3 align="center"> I'm a Computer Vision | Deep Learning Learner.</h3>
+<h3 align="center"> I'm a Computer Vision 💻👀 and Deep Learning 🧠 Learner 📝.</h3>
 
 
 

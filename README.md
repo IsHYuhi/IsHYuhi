@@ -31,7 +31,7 @@
 - Twitter: [@ImsoHappyYuhi](https://twitter.com/ImsoHappyYuhi)
 - FaceBook: [Yuhi Matsuo](https://www.facebook.com/ImsoHappyYuhi)
 
-## [Mypage](https://ishyuhi.github.io/ImsoHappyYuhi.html)
+<!-- ## [Mypage](https://ishyuhi.github.io/ImsoHappyYuhi.html) -->
 <!--![](https://github.com/IsHYuhi/IsHYuhi/blob/master/hi.gif)-->
 
 <!--

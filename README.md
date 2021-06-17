@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi👋, I'm Yuhi Matsuo.</h1>
 <h3 align="center"> I'm a Computer Vision 💻👀 and Deep Learning 🧠 Learner 📝.</h3>
-<h4 align="center"> If you know more about me, please check <a href="https://ishyuhi.github.io/ImsoHappyYuhi.html">MYPAGE</a>.</h4>
+<h4 align="center"> If you want to know more about me, please check <a href="https://ishyuhi.github.io/ImsoHappyYuhi.html">MYPAGE</a>.</h4>
 
 
 [![GitHub IsHYuhi](https://img.shields.io/github/followers/ishyuhi?label=follow%20@IsHYuhi&style=social)](https://github.com/IsHYuhi)  [![GitHub IsHYuhi](https://img.shields.io/twitter/follow/ImsoHappyYuhi?style=social&logo=twitter)](https://twitter.com/intent/follow?screen_name=imsohappyyuhi)

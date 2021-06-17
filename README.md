@@ -7,7 +7,10 @@
 - Japanese🇯🇵
 
 [![IsHYuhi's github stats](https://github-readme-stats.vercel.app/api?username=IsHYuhi&show_icons=true&icon_color=2BDE73&count_private=true)](https://github.com/IsHYuhi)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsHYuhi&layout=compact&hide=jupyter%20notebook)](https://github.com/IsHYuhi)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsHYuhi&layout=compact&hide=jupyter%20notebook)](https://github.com/IsHYuhi) -->
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sawamotokai&" alt="sawamotokai" /></p>
+
 ## Interests
 - Computer Vision
 - Deep Learning

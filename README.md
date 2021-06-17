@@ -1,5 +1,10 @@
 ![](https://github.com/IsHYuhi/IsHYuhi/blob/master/id.jpg)
-# Hi, I'm Yuhi.
+
+<h1 align="center">Hi👋, I'm Yuhi Matsuo.</h1>
+<h3 align="center"> I'm a Computer Vision | Deep Learning Learner.</h3>
+
+
+
 [![GitHub IsHYuhi](https://img.shields.io/github/followers/ishyuhi?label=follow%20@IsHYuhi&style=social)](https://github.com/IsHYuhi)  [![GitHub IsHYuhi](https://img.shields.io/twitter/follow/ImsoHappyYuhi?style=social&logo=twitter)](https://twitter.com/intent/follow?screen_name=imsohappyyuhi)
 
 - Master's student at Keio University
@@ -10,10 +15,6 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsHYuhi&layout=compact&hide=jupyter%20notebook)](https://github.com/IsHYuhi) -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sawamotokai&" alt="sawamotokai" /></p>
-
-## Interests
-- Computer Vision
-- Deep Learning
 
 ## Skills
 <p>
@@ -30,8 +31,7 @@
 - Twitter: [@ImsoHappyYuhi](https://twitter.com/ImsoHappyYuhi)
 - FaceBook: [Yuhi Matsuo](https://www.facebook.com/ImsoHappyYuhi)
 
-## Mypage
-Check [mypage](https://ishyuhi.github.io/ImsoHappyYuhi.html)
+## [Mypage](https://ishyuhi.github.io/ImsoHappyYuhi.html)
 <!--![](https://github.com/IsHYuhi/IsHYuhi/blob/master/hi.gif)-->
 
 <!--

@@ -14,7 +14,7 @@
 [![IsHYuhi's github stats](https://github-readme-stats.vercel.app/api?username=IsHYuhi&show_icons=true&icon_color=2BDE73&count_private=true)](https://github.com/IsHYuhi)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsHYuhi&layout=compact&hide=jupyter%20notebook)](https://github.com/IsHYuhi) -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sawamotokai&" alt="sawamotokai" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IsHYuhi" alt="IsHYuhi" /></p>
 
 ## Skills
 <p>
@@ -27,12 +27,14 @@
 <img src="https://img.shields.io/badge/-Git-F44D27?style=social&logo=Git&logoColor=F44D27"/>
 </p>
 
+## Recent Activities
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsHYuhi&repo=FujiFilm_Brains_Solution&bg_color=30,4169e1,904e95&title_color=fff&text_color=fff)](https://github.com/IsHYuhi/FujiFilm_Brains_Solution)
+
+
 ## Contact
 - Twitter: [@ImsoHappyYuhi](https://twitter.com/ImsoHappyYuhi)
 - FaceBook: [Yuhi Matsuo](https://www.facebook.com/ImsoHappyYuhi)
 
-<!-- ## [Mypage](https://ishyuhi.github.io/ImsoHappyYuhi.html) -->
-<!--![](https://github.com/IsHYuhi/IsHYuhi/blob/master/hi.gif)-->
 
 <!--
 **IsHYuhi/IsHYuhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

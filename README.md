@@ -11,10 +11,10 @@
 - Graduated from the University of Aizu
 - Japanese🇯🇵
 
-[![IsHYuhi's github stats](https://github-readme-stats.vercel.app/api?username=IsHYuhi&show_icons=true&icon_color=2BDE73&count_private=true)](https://github.com/IsHYuhi)
+[![IsHYuhi's github stats](https://github-readme-stats.vercel.app/api?username=IsHYuhi&show_icons=true&theme=graywhite)](https://github.com/IsHYuhi)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsHYuhi&layout=compact&hide=jupyter%20notebook)](https://github.com/IsHYuhi) -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IsHYuhi" alt="IsHYuhi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IsHYuhi&theme=graywhite" alt="IsHYuhi" /></p>
 
 ## Skills
 <p>
@@ -28,7 +28,7 @@
 </p>
 
 ## Recent Activities
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsHYuhi&repo=FujiFilm_Brains_Solution&bg_color=30,4169e1,904e95&title_color=fff&text_color=fff)](https://github.com/IsHYuhi/FujiFilm_Brains_Solution)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsHYuhi&repo=FujiFilm_Brains_Solution&theme=graywhite)](https://github.com/IsHYuhi/FujiFilm_Brains_Solution)
 
 
 ## Contact

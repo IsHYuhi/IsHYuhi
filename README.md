@@ -33,8 +33,6 @@
 
 ## Contact
 - Twitter: [@ImsoHappyYuhi](https://twitter.com/ImsoHappyYuhi)
-- FaceBook: [Yuhi Matsuo](https://www.facebook.com/ImsoHappyYuhi)
-
 
 <!--
 **IsHYuhi/IsHYuhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

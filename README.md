@@ -7,11 +7,9 @@
 
 [![GitHub IsHYuhi](https://img.shields.io/github/followers/ishyuhi?label=follow%20@IsHYuhi&style=social)](https://github.com/IsHYuhi)  [![GitHub IsHYuhi](https://img.shields.io/twitter/follow/ImsoHappyYuhi?style=social&logo=twitter)](https://twitter.com/intent/follow?screen_name=imsohappyyuhi)
 
-- Master's student at Keio University
-- Graduated from the University of Aizu
 - Japanese🇯🇵
-
-[![IsHYuhi's github stats](https://github-readme-stats.vercel.app/api?username=IsHYuhi&show_icons=true&theme=graywhite)](https://github.com/IsHYuhi)
+<!-- 
+[![IsHYuhi's github stats](https://github-readme-stats.vercel.app/api?username=IsHYuhi&show_icons=true&theme=graywhite)](https://github.com/IsHYuhi) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsHYuhi&layout=compact&hide=jupyter%20notebook)](https://github.com/IsHYuhi) -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IsHYuhi&theme=graywhite" alt="IsHYuhi" /></p>

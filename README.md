@@ -5,7 +5,8 @@
 <h4 align="center"> If you want to know more about me, please check <a href="https://ishyuhi.github.io/ImsoHappyYuhi.html">MYPAGE</a>.</h4>
 
 
-[![GitHub IsHYuhi](https://img.shields.io/github/followers/ishyuhi?label=follow%20@IsHYuhi&style=social)](https://github.com/IsHYuhi)  [![GitHub IsHYuhi](https://img.shields.io/twitter/follow/ImsoHappyYuhi?style=social&logo=twitter)](https://twitter.com/intent/follow?screen_name=imsohappyyuhi)
+[![GitHub IsHYuhi](https://img.shields.io/github/followers/ishyuhi?label=follow%20@IsHYuhi&style=social)](https://github.com/IsHYuhi)  
+[![GitHub IsHYuhi](https://img.shields.io/twitter/follow/ImsoHappyYuhi?style=social&logo=twitter)](https://twitter.com/intent/follow?screen_name=imsohappyyuhi)
 
 - Japanese🇯🇵
 <!-- 
@@ -25,8 +26,8 @@
 <img src="https://img.shields.io/badge/-Git-F44D27?style=social&logo=Git&logoColor=F44D27"/>
 </p>
 
-## Recent Activities
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsHYuhi&repo=FujiFilm_Brains_Solution&theme=graywhite)](https://github.com/IsHYuhi/FujiFilm_Brains_Solution)
+<!-- ## Recent Activities
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IsHYuhi&repo=FujiFilm_Brains_Solution&theme=graywhite)](https://github.com/IsHYuhi/FujiFilm_Brains_Solution) -->
 
 
 ## Contact
